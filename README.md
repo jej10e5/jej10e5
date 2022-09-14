@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jej10e5&show_icons=true&theme=gruvbox_light)
+
+https://www.youtube.com/channel/UCRfo8S7p2IPXFPhU3HXT-RA
