@@ -25,7 +25,7 @@ Hi! I'm studying to become blockchain developer :seedling:
 <img src="https://img.shields.io/badge/Java-010101?style=flat&logoColor=white"/>   
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Html5-E34F26?style=flat&logo=Html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/>
 
