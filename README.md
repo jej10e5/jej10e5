@@ -34,12 +34,8 @@ Hi! I'm studying to become blockchain developer :seedling:
 
 ## :satisfied: More
 <a href="https://www.youtube.com/channel/UCRfo8S7p2IPXFPhU3HXT-RA">
-<img src="https://img.shields.io/badge/YouTube-#FF0000?style=flat&logo=Youtube&logoColor=white"/>
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=YouTube&logoColor=white"/>
 </a>
 
-
-
-
-https://www.youtube.com/channel/UCRfo8S7p2IPXFPhU3HXT-RA
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=footer&text=Thanks!&fontSize=90&animation=fadeIn&rotate=2)
