@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hi%20I'm%20EJ&fontSize=90&animation=fadeIn&rotate=-2)
 
 ## :clap: Introduction
-Hi! I'm studying to become blockchain developer :seedling:
+Hi! I'm studying to become the blockchain developer :seedling:
 <br>
 
 ## :books: Skill  
