@@ -15,11 +15,10 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hi%20I'm%20EJ&fontSize=90&animation=fadeIn&rotate=-2)
 
-## :clap: Introduction
-Hi! I'm studying to become the blockchain developer :seedling:
 <br>
 
 ## :books: Skill  
+<img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=Go&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-010101?style=flat&logoColor=white"/>   
